@@ -21,6 +21,7 @@
   如果你的电脑不会出255bug，那么将会在`fishingCounter`次后结束。改成无限就去把`for fishTimeCount in range(fishingCounter):`那一行改成`While True:`
 
 ## 使用方法
+- 首先你要安装好带pip的Python 3。[Python.org](https://www.python.org)
 - 安装一下外部库……懒人神器→ 自动钓鱼简化环境配置器.cmd
 - 不要改变小程序的名字，除非想你自己改自启动代码
 - 打开你的MinecraftBE缩放到合适的位置
