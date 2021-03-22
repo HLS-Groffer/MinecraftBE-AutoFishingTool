@@ -1,11 +1,14 @@
 # MinecraftBE-AutoFishingTool
   自动钓鱼，解放生产力（大误）<br>
   在一次去下界以后弄丢了好友弄来的附魔弓，而游戏内自动钓鱼装置被更新失效了，故做此蠢事弥补损失。虽然弓找回来了，但是这个蠢蠢的小工具给我钓来好几箱附魔书。
+  
+# Something has went wrong
+It's been a long time I haven't use these tool until one day my friend and I created a new world and enjoyed ourselves on an island until we came to a position in which was hard to push anything forward. It suddenly occured to me that I had an auto fishing tool which can brought us enchanted books. As I was fishing, I noticed that Mojang changed the color of the splashing water, resulting in a low efficiency in auto-fishing. Maybe there waas nothing changed and it was only my illusion. If the color does change, I reckon that someone in Mojang noticed this kind of tools and took it for a damage on the fragile balance of enchantment in Minecraft so they adopt measures to stop it. Although the old saying goes where there's a will, there's a way, However, I think I may not fix this tool anymore in order to show respect to the game maker. New splasing water is not as clear as those in old editions, fixing this tool may resulting in more hazy effect which shall harm the gaming experience. They developed this very splendid game, I shall not harm make it bad by my scripts. Coding is to make the world a better place but not destory one. However, I still hope Mojang can bring us new items and features that can free us from dull work and gain more happiness in this wounderful game. It's too difficult, labour intensive and time-consuming to in enchantment. I often find it's hard to make poisons and enchant tools. Sometimes I just can't find the mobs for blaze mods or never find enough Lapis Lazuli for enchantment. What's more, the game is lack efficient travelling vehicle. The world is big but travelling though which is desperating. 
 
 ## 写在前面
   我得承认这个东西需要严苛的环境，独占的操作，还容易出意外导致钓鱼终止。看在能在某种程度上解放不得无时无刻不盯着浮标的痛苦钓鱼现状的份上，也算有些价值。<br>
 ![又不是不能用](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1595955470235&di=022176a7e5d283642446ecca672a93cb&imgtype=0&src=http%3A%2F%2Fbbs-static.smartisan.cn%2Fdata%2Fattachment%2Fforum%2F201811%2F23%2F185450dmavxh9r5ebbn1ez.jpg)<br>
-  支持的环境：我只试过 Win10
+  支持的环境：我只试过 Win10 (不过本来就只有win10有微软商店版本的基岩版吧）
 
 ## 自动钓鱼原理
   通过鼠标附近25个红色通道监测点的平均颜色作为判断，在鱼竿水花溅起的时候自动右键（笑）~~*没错就是这么蠢的思路*~~<br>
